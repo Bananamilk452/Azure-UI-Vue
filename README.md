@@ -1,24 +1,14 @@
-# azure-ui-vue
+# Azure UI Vue
+### This package is designed for personal use  
 
-## Project setup
-```
-yarn install
-```
+A CSS Library for Vue inspired from [Azure](https://azure.com)  
+  
+If you find any bugs or improvements, feel free to issue or PR!  
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Current feature status
++ Heading
++ Breadcrumb
++ Input
++ Navbar
++ Container
++ Icon (not fully implemented)
